@@ -3,7 +3,7 @@ Hooks.once('init', () => {
     game.babele.register({
       module: 'pf2e-season-of-ghosts-pg-pl', // Identyfikator twojego modułu
       lang: 'pl', // Język
-      dir: 'lang/compendium', // Katalog z tłumaczeniami
+      dir: 'lang/pl', // Katalog z tłumaczeniami
     });
   }
 });
